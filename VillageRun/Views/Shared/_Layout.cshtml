@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@Page.Title</title>
+    @RenderSection("head", required: false)
+    @Styles.Render("~/Content/bootstrap")
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+    @RenderBody()
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>
