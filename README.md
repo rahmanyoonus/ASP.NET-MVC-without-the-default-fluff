@@ -1,5 +1,6 @@
 # ASP.NET-MVC-without-the-default-fluff
 All goodness of ASP.NET MVC project template with all default fluff removed. Clone the project and get started right away.
+I spent hourssss removing the fluff so you don't have to. 
 
 1. Target Framework="4.6.1"
 2. Bootstrap v3.3.7
